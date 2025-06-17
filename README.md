@@ -7,3 +7,7 @@ This module can optimize Android by modify the system table statically. Such as 
 
 ## How To Use ❓
 Download the module from the [release](https://github.com/SchneeSchmitt/Magisk-Performance-Optimizer/releases/tag/Release) and install it in Magisk.
+
+## Unsupported list ❌
+### [Halcyon](https://hlcyn.co/)
+Installing the module on this ROM with Magisk 29.0 will result in the phone stuck on bootloop. Tested on Redmi Note 9 (merlinx), Build ID: 20250316-0234
